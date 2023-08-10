@@ -1,37 +1,46 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/default-image-8.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/a9d09d0a7d573bb8e0af280c910f0f2a6880462ccd676bc09f8c5abb5041a59b10c285a4a83b50bd90fbb1f4fe8351c3b7cf9e4f4b52527a6278b1_1280.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 589px;
+  min-height: 877px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px auto;
+  margin: 261px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  margin: 42px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 486px;
+    min-height: 723px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 372px;
+    min-height: 554px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 279px;
+    min-height: 416px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 176px;
+    min-height: 262px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
   }
 } .u-section-2 {
   background-image: none;

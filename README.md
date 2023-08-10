@@ -1,5 +1,3 @@
-# GaddGames.github.io
-Semester 2 Portfolio
 <!DOCTYPE html>
 <html lang="en">
   <head>
